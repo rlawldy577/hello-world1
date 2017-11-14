@@ -3,6 +3,8 @@
 int main()
 {
   printf("This is a basic calculator");
+  printf("Input x and y : ");
+
   return 0;
 }
 int Add(int x, int y) {

@@ -1,8 +1,5 @@
-# hello-world1
-bowling program
+# Soda_exp
+ - Pull & Request Practice
 
-/*********************************
- ** 볼링 점수 계산 프로그램     **
- ** 작성자: 김지용              **
- ** 작성일: 2016년 4월 30일     **
- *********************************/
+## Language
+ - C, C++, Java
